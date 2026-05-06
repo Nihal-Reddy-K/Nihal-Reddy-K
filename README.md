@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```yaml
 Name: Nihal Reddy K
@@ -189,10 +189,10 @@ Learning:
 ---
 
 ------|----------|
-| Data Structures & Algorithms | 🚀🚀🚀🚀⚪ |
-| Full-Stack Development | 🚀🚀🚀🚀⚪ |
-| System Design | 🚀🚀⚪⚪⚪ |
-| AI Integrations | 🚀🚀⚪⚪⚪ |
+| Data Structures & Algorithms |
+| Full-Stack Development |
+| System Design | 
+| AI Integrations | 
 
 </div>
 
