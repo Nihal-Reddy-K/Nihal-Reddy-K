@@ -8,7 +8,7 @@
 
 ---
 
-## About Me
+## 🚀 About Me
 
 ```yaml
 Name: Nihal Reddy K
@@ -189,24 +189,12 @@ Learning:
 ---
 
 ------|----------|
+| Learning Areas |
+|------|
 | Data Structures & Algorithms |
 | Full-Stack Development |
-| System Design | 
-| AI Integrations | 
-
-</div>
-
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+| System Design |
+| AI Integrations |
 
 </div>
 
@@ -214,21 +202,7 @@ Learning:
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="mailto:nihal.komma@gmail.com">
-  <img src="https://img.shields.io/badge/nihal.komma@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</p>
+---
 
 ---
 
@@ -242,14 +216,7 @@ Learning:
 
 <img src="https://media.tenor.com/DimzPZMypFcAAAAd/lucy-cyberpunk.gif" width="420" />
 
-## 🌸 Thanks for Visiting My Profile 🌸
+##  Thank You 
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-
-</div>
