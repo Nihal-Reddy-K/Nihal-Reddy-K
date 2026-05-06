@@ -218,7 +218,7 @@ Learning:
 
 <p align="left">
 <a href="mailto:nihal.komma@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/nihal.komma@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://github.com/YOUR_USERNAME">
@@ -240,7 +240,7 @@ Learning:
 
 <br><br>
 
-<img src="https://media1.tenor.com/m/QJjJ5Oy6G48AAAAC/neverness-to-everness.gif" width="420" />
+<img src="https://media.tenor.com/DimzPZMypFcAAAAd/lucy-cyberpunk.gif" width="420" />
 
 ## 🌸 Thanks for Visiting My Profile 🌸
 
