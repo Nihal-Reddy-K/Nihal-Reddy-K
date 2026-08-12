@@ -1,4 +1,3 @@
-````markdown
 # Hi there! I'm Nihal Reddy K
 
 <div align="center">
@@ -35,18 +34,7 @@ Currently Building:
   - AI-powered applications
   - Backend systems
   - Projects combining AI with serious software engineering
-
-Currently Learning:
-  - Java + Data Structures & Algorithms
-  - Python + Machine Learning
-  - SQL
-  - Linux
-  - C & Systems Programming
-  - Spring Boot
-  - System Design
-  - Distributed Systems
-  - Cloud & Infrastructure
-````
+```
 
 <div align="center">
 
@@ -64,7 +52,7 @@ Currently Learning:
 
 </div>
 
-## 👨‍💻 Programming Languages
+## Programming Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,java,python,c" />
@@ -80,9 +68,9 @@ Currently Learning:
 ### Languages I Use
 
 * JavaScript for full-stack web development
-* Java for DSA & problem solving — **Currently Learning**
+* Java for DSA and problem solving — **Currently Learning**
 * Python for AI/ML — **Currently Learning**
-* C for systems programming & low-level concepts — **Currently Learning**
+* C for systems programming and low-level concepts — **Currently Learning**
 
 ---
 
@@ -97,8 +85,8 @@ Currently Learning:
 * Responsive Web Design
 * React Component Architecture
 * Dynamic UI Development
-* React Hooks & State Management
-* API Integration & Data Rendering
+* React Hooks and State Management
+* API Integration and Data Rendering
 * Modern UI/UX Styling
 * Mobile Responsive Layouts
 * Dashboard Development
@@ -120,7 +108,7 @@ Currently Learning:
 
 ---
 
-## ⚙️ Backend Development
+## Backend Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
@@ -130,9 +118,9 @@ Currently Learning:
 
 * REST API Development
 * MVC Architecture
-* Authentication & Authorization
+* Authentication and Authorization
 * JWT Authentication
-* Session & Cookie Management
+* Session and Cookie Management
 * Server-side Rendering with EJS
 * Middleware Architecture
 * File Upload Handling
@@ -160,7 +148,7 @@ Currently Learning:
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### Current AI Experience
+### AI Experience
 
 * Google Gemini API
 * AI-powered application development
@@ -172,6 +160,7 @@ Currently Learning:
 * Semantic Retrieval
 * Context-aware Question Answering
 * Persistent AI Chat Memory
+* Document-based Conversations
 
 ### Currently Learning
 
@@ -208,7 +197,7 @@ Currently Learning:
 ### Services & Integrations Used
 
 * Cloudinary Image Uploads
-* Mapbox Geocoding & Maps
+* Mapbox Geocoding and Maps
 * OpenWeather API Integration
 * Google Gemini
 * MongoDB Atlas
@@ -231,22 +220,22 @@ Currently Learning:
 * System Design
 * Distributed Systems
 * Scalable Backend Engineering
-* Cloud & Infrastructure Concepts
+* Cloud and Infrastructure Concepts
 
-### Long-Term Technical Interests
+### Areas of Interest
 
 * AI Infrastructure
 * Distributed Systems
 * Backend Systems
 * Systems Software
-* Cloud & Platform Engineering
+* Cloud and Platform Engineering
 * Data Engineering
 * Developer Tools
 * Scalable AI Systems
 
 ---
 
-## 🛠️ Tools & Platforms
+## Tools & Platforms
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
@@ -254,12 +243,12 @@ Currently Learning:
 
 ### Tools I Use
 
-* Git & GitHub
+* Git and GitHub
 * VS Code
 * Postman API Testing
 * NPM Package Management
 * GitHub Repository Management
-* API Development & Testing
+* API Development and Testing
 * Version Control
 
 ---
@@ -278,13 +267,13 @@ Currently Learning:
 
 ### Features
 
-* Secure Authentication & Authorization
+* Secure Authentication and Authorization
 * Passport.js Authentication
 * Interactive Map Integration
-* Mapbox Maps & Location Features
+* Mapbox Maps and Location Features
 * Cloud Image Uploads with Cloudinary
-* Reviews & Ratings
-* Search & Filtering
+* Reviews and Ratings
+* Search and Filtering
 * Responsive UI
 * MVC Architecture
 * MongoDB Database Integration
@@ -311,7 +300,7 @@ Currently Learning:
 
 * Secure JWT Authentication
 * Password Hashing with bcrypt
-* Buy & Sell Operations
+* Buy and Sell Operations
 * Simulated Market Price Engine
 * Portfolio Management
 * Fund Management
@@ -372,24 +361,13 @@ Currently Learning:
 
 **AI:** Google Gemini • RAG • Embeddings • Vector Search • Semantic Retrieval
 
+---
 
 <div align="center">
 
 ### Learning. Building. Breaking. Fixing. Repeating.
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVhZm9ubTNrODZhd3hxa3B0MWs0MXA1aXd5NG85cDJvMWU5NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420" />
-
-</div>
-```
-
-
-<img src="https://media1.tenor.com/m/8xv8bQzj8r0AAAAd/anime-city.gif" width="500" />
-
-<br><br>
-
-<img src="https://media.tenor.com/DimzPZMypFcAAAAd/lucy-cyberpunk.gif" width="420" />
-
-##  Thank You 
 
 </div>
 
