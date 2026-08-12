@@ -367,7 +367,6 @@ Currently Building:
 
 ### Learning. Building. Breaking. Fixing. Repeating.
 
-<img src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-computer.gif" width="420" />
+<img src="https://media.tenor.com/4d6J7nQhY0cAAAAC/anime-glasses.gif" width="420" />
 
 </div>
-
