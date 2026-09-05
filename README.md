@@ -328,7 +328,7 @@ Currently Learning:
 
 # Featured Projects
 
-## NEXUS — Distributed Job Execution Platform
+## nexus — Distributed Job Execution Platform
 
 > A distributed job execution platform built in Go to explore concurrency, worker coordination, scheduling, failure handling, observability, and practical distributed systems engineering.
 
